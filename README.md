@@ -6,15 +6,15 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 
 ## Kelompok
 
+## Kelompok
+
 | Peran | Nama | NIM |
 |---|---|---|
-| Ketua | [Nama Lengkap] | [NIM] |
-| Anggota | [Nama Lengkap] | [NIM] |
-| Anggota | [Nama Lengkap] | [NIM] |
+| Ketua | Noel Kevin Julian Simanjuntak | 124400094 |
 
-- **Kelas:** [RA / RB]
-- **Lokasi kelompok:** [kode] — [nama lokasi] (digit terakhir NIM terkecil)
-- **Laporan:** [`laporan-latex/main.pdf` atau `laporan-typst/main.pdf`]
+- **Kelas:** RB
+- **Lokasi kelompok:** 4 (Politecnico di Milano)
+- **Laporan:** laporan-typst/main.pdf
 
 ## Cara Menjalankan
 
